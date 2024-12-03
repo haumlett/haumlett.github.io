@@ -27,7 +27,7 @@ a {
 }
 
 a:hover {
-    color: #00c678;
+    color: #c3749a;
 }
 
 header {
@@ -128,13 +128,13 @@ main {
 }
 
 .btn-primary {
-    background-color: #00D98B;
+    background-color: #dd84e3;
     border: none;
     transition: background-color 0.3s ease;
 }
 
 .btn-primary:hover {
-    background-color: #00c678;
+    background-color: #c3749a;
 }
 
 .skill-item {
@@ -147,7 +147,7 @@ main {
 }
 
 .skill-item i {
-    color: #00D98B;
+    color: #dd84e3;
 }
 
 .skill-item h5 {
