@@ -101,7 +101,7 @@ main {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     overflow: hidden;
     position: relative;
-    border: 1px solid rgba(0, 217, 139, 0.1);
+    border: 1px solid rgba(221, 132, 227, 0.8);
 }
 
 .project-card:hover {
